@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub profile! 😎🤓✌️
 [![Julian Cochran's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliancochran&theme=dracula)](https://github.com/juliancochran/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliancochran&theme=dracula)](https://github.com/juliancochran/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliancochran&theme=dracula&hide=python)](https://github.com/juliancochran/github-readme-stats)
 <!--
 **juliancochran/juliancochran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
